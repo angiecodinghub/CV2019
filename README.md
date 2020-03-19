@@ -1,5 +1,5 @@
 # NTU_CV2019
-These are the assigned homework in Computer Vision I, taught by Professor Fuh.
+These are the assigned homework in Computer Vision I, taught by Professor Fuh./n
 Here are some brief descriptions of the assignments.
 All of the implementations were done by Python.
 
