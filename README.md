@@ -1,4 +1,4 @@
-# NTU_CV2019  
+# CV2019  
 * Homework 1: Basic Image Manipulation <br/>
 * Homework 2: Basic Image Manipulation  <br/>
 * Homework 3: Histogram Equalization  <br/>
