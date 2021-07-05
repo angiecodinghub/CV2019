@@ -1,4 +1,5 @@
-# CV2019  
+# Computer Vision
+Here are some codes to some basic computer vision methods.
 * Homework 1: Basic Image Manipulation <br/>
 * Homework 2: Basic Image Manipulation  <br/>
 * Homework 3: Histogram Equalization  <br/>
